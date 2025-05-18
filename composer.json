@@ -1,0 +1,17 @@
+{
+    "name": "alind432/admin-lte",
+    "description": "This package is used to install the complete admin lte through commands",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AdminLte\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alind Gupta",
+            "email": "alind432@gmail.com"
+        }
+    ],
+    "require": {}
+}
